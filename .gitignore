@@ -1,0 +1,4 @@
+select_gpu
+*.log
+*.edr
+*.out
