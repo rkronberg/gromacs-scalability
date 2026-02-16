@@ -19,7 +19,7 @@
 * STMV benchmark (1067k atoms)
 * ROCm 6.0.3
 * SYCL backend (AdaptiveCpp 23.10.0)
-* Run on 2026-02-16
+* Run on 2025-12-08
 
 | MPI ranks | Threads/rank | GCDs | Performance (ns/day) |
 |-----------|--------------|------|----------------------|
